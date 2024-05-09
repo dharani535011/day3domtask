@@ -1,4 +1,3 @@
-#calculator
->first i create the html page and add the style for the calculator and write the code for calculator by javascript
->and push the code in my git
->using netlify to create my own website
+#DOM manipilating form
+>i created the form using html,css,bootstrap and js
+>then using netlify creating my own website after uploading in git
